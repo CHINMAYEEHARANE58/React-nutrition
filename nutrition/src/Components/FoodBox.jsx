@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './FoodBox.css'
+import './Foodbox.css'
 
 export default class FoodBox extends Component {
 
