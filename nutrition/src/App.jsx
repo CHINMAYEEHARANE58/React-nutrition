@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import FoodBox from './Components/FoodBox'
-import FoodData from './resources/FoodData'
+import FoodBox from './Components/FoodBox.jsx'
+import FoodData from './resources/FoodData.js'
 
 export default class App extends Component {
   
